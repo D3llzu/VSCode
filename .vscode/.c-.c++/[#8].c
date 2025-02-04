@@ -14,16 +14,16 @@ int main(){
     scanf("%d", &esc);
 
     if (esc == 1){
-        printf("\nO resultado é:%.2f", num1 + num2);
+        printf("\nO resultado é: %.2f", num1 + num2);
     }
     else if (esc == 2){
-        printf("\nO resultado é:%2.f", num1 - num2);
+        printf("\nO resultado é: %2.f", num1 - num2);
     }
     else if (esc == 3){
-        printf("\nO resultado é:%2.f", num1 * num2);
+        printf("\nO resultado é: %2.f", num1 * num2);
     }
     else if (esc == 4 && num2 != 0){
-        printf("\nO resultado é:%2.f", num1 / num2);
+        printf("\nO resultado é: %2.f", num1 / num2);
     }
     else if (esc == 4 && num2 == 0){
         printf("\nERR.");
