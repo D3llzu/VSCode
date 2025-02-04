@@ -1,0 +1,1 @@
+"""[#5] Receba duas frases distintas e imprima de maneira invertida, trocando as letras A por *."""
