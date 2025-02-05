@@ -15,7 +15,7 @@ int main () {
         /*fgets(frase, 50, stdin);*/
 
         for (int i = 0; i < strlen(frase); i++) {
-            if (frase[i] != ' ') {
+            if (frase[i] != " ") {
                frase2[j] = frase[i];
                 j++;
             }

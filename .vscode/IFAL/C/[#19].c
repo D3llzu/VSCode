@@ -7,17 +7,21 @@ Ex.: Antônio Fernando Silva → SILVA/Antônio*/
 #include <stdlib.h>
 
 int main(){
-    char Nome[20], SNome[20]; SNOME[20]
+    int i = 0;
+    char Nome[20], SNome[20], SNOME[20];
 
     printf("Digite seu primeiro nome: ");
-    gets (Nome);
+    fgets (Nome, 20, stdin);
 
     printf("Digite agora seu sobrenome: ");
-    gets (SNome);
+    fgets (SNome, 20, stdin);
 
-    SNOME[20] = toupper(SNome[20]);
+    while (SNome[i] =! "\0"){
+        SNOME[i] = toupper(SNome[i]);}
 
-    printf("\n", "%s", SNome, "/%s", Nome);
+    /*SNOME[20] = toupper(SNome[5]);*/
+
+    printf("\n%s/%s", SNOME, Nome);
 
     return 0;
 }
