@@ -17,7 +17,9 @@ int main(){
     fgets (SNome, 20, stdin);
 
     while (SNome[i] =! "\0"){
-        SNOME[i] = toupper(SNome[i]);}
+        SNOME[i] = toupper(SNome[i]);
+        i++;
+        }
 
     /*SNOME[20] = toupper(SNome[5]);*/
 
