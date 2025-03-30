@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "test1",
+      "request": "launch",
+      "mainClass": "test1",
+      "projectName": "VSCode_efebc8a1"
+    },
+    {
+      "type": "java",
+      "name": "ex_1",
+      "request": "launch",
+      "mainClass": "ex_1",
+      "projectName": "VSCode_efebc8a1"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
