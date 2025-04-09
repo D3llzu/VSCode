@@ -1,4 +1,4 @@
-package proo_java;
+package Exercicio;
 
 public class PROO_Java {
 
