@@ -14,6 +14,25 @@ public class exe_1 {
   public static void main (String [] args){
       Scanner scanf = new Scanner (System.in);
       
+      System.out.print("Digite um número para votar em um dos 3 candidatos: ");
+      int voto = scanf.nextInt();
       
+      switch (voto){
+          case 30:
+              System.out.println("\nVocê votou no Homem-Aranha");
+              break;
+          case 50:
+              System.out.println("\nVocê votou na Mulher-Maravilha");
+              break;
+          case 60:
+              System.out.println("\nVocê votou no Homem de Ferro");
+              break;
+          case 0:
+              System.out.println("\nVocê votou em branco");
+              break;
+          default:
+              System.out.println("\nVocê votou nulo");
+              break;
+      }
   }  
 }
