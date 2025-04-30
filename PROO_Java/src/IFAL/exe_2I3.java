@@ -21,7 +21,7 @@ public class exe_2I3 {
         System.out.println("'3' - Multiplicação");
         System.out.println("'4' - Divisão");
         System.out.println("'5' - Potência");
-        System.out.print("'6' - Raiz Quadrada");
+        System.out.print("'6' - Raiz Quadrada\n");
         
         int oper = scanf.nextInt();
         
@@ -34,8 +34,8 @@ public class exe_2I3 {
         else if (oper == 3){
                 System.out.printf("\n\nO valor final foi: %d", a * b, "\n");
         }
-        else if (oper == 4 || b != 0){
-                System.out.printf("\n\nO valor final foi: %d", a / b, "\n");
+        else if (oper == 4 && b != 0){
+                System.out.printf("\n\nO valor final foi: %.2f", (float) a / b, "\n");
         }
         else if (oper == 4 && b == 0){
                 System.out.printf("\n\nErro no Código. Refaça-o\n");
