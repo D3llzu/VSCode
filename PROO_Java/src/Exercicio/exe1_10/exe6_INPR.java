@@ -1,9 +1,6 @@
-public class exe6_IFAL {
-    
-}
 /*[#6] Receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.*/
 import java.util.Scanner;
-public class exe6_IFAL {
+public class exe6_INPR {
    public static void main (String [] args){
        Scanner scanf = new Scanner (System.in);
 

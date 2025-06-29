@@ -1,3 +1,5 @@
+package IFAL.exe1_10;
+
 /*Considere que no último exame de seleção para o IFAL houve três provas: português, matemática e
 conhecimentos gerais. Faça um programa que leia, para vários candidatos, o nome e as notas de
 cada uma das provas. O programa deverá exibir:

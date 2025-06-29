@@ -1,3 +1,5 @@
+package IFAL.exe1_10;
+
 /*
  Faça um programa que receba a idade, o peso, a altura, a cor dos olhos (A -
 azul, P- preto, V - verde e C - castanho) e a cor dos cabelos (P -preto, 

@@ -1,3 +1,5 @@
+package Exercicio.exe1_10;
+
 /*[#2] Obter e atribuir um valor randômico a uma variável inteira...utiliza-se a função randômica da 
 ferramenta de pseudocódigo (u.sorteia(valor_inicial, valor_final) no Studio). */
 import java.util.Random;

@@ -1,3 +1,5 @@
+package Exercicio.exe1_10;
+
 /*[#3] Efetuar o cálculo e apresentar o valor de uma prestação de um bem em atraso, utilizando a 
 fórmula PRESTACAO <- VALOR +VALOR * (TAXA/100)*TEMPO_MES */
 import java.util.Scanner;

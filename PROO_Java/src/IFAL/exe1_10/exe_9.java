@@ -1,4 +1,4 @@
-package IFAL;
+package IFAL.exe1_10;
 /*9. O shopping da cidade fez uma pesquisa entre seus clientes. Foram coletados os seguintes dados: 
 idade, gênero (F/M) e salário. 
 Faça um programa que calcule e mostre para um número indeterminado de pessoas:

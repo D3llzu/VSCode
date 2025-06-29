@@ -1,4 +1,4 @@
-package IFAL;
+package IFAL.exe1_10;
 
 /*Faça um programa para simular o funcionamento de uma calculadora. O programa deverá perguntar ao
 usuário qual a operação desejada (+, -, *, /), os dois valores e exibir o resultado de acordo com a

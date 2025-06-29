@@ -1,3 +1,5 @@
+package IFAL.exe1_10;
+
 /* 5. Construa um programa em Java que calcule e apresente quanto deve ser pago por um cliente por
 uma compra no supermercado. O cliente pode comprar vários produtos. Para cada produto são
 lidos: o código do produto, o valor e a quantidade. Após a leitura de todos os produtos, o programa

@@ -7,7 +7,7 @@ Cada voto deve ser dado pelo número do candidato, permitindo-se ainda o voto 00
 Qualquer voto diferente dos já citados é considerado nulo. No final da eleição o programa deve 
 emitir um relatório contendo a votação de cada candidato, a quantidade votos em branco, a quantidade 
 de votos nulos.*/
-package IFAL;
+package IFAL.exe1_10;
 import java.util.Scanner;
 
 public class exe_1 {

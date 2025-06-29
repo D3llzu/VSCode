@@ -1,3 +1,5 @@
+package Exercicio.exe1_10;
+
 /*[#1] Leia três valores numéricos inteiros (representados pelas variáveis A, B e C) e apresente 
 como resultado final o valor da soma dos quadrados dos três valores lidos.*/
 import java.util.Scanner;

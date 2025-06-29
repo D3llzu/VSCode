@@ -1,0 +1,2 @@
+/*3. Faça uma classe Principal que faça a simulação de compra de três entradas e faça a chamada dos métodos para 
+exibir os dados de cada entrada. Defina pelo menos 3 funcionalidades interessantes para esta situação.*/

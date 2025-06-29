@@ -1,3 +1,5 @@
+package Exercicio.exe1_10;
+
 /*[#5] Converter uma temperatura dada em Celsius para Farenheit e Kelvin. */
 import java.util.Scanner;
 public class exe5_INPR {

@@ -1,3 +1,5 @@
+package IFAL.exe1_10;
+
 /*1. Faça um programa que calcule a média dos números digitados pelo usuário. A leitura dos números
 será finalizada, se o usuário digitar zero (0).
 2. Adapte o programa anterior para calcular e mostrar além da média de todos os números, a média
