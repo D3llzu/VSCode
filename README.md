@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=intellijidea)
 
 ## Sobre o Repositório
-Aqui estão apenas **algumas atividades e trabalhos** feitas durante os três anos do meu curso de Técnico em Informática pelo IFAL, sem grandes projetos. Tentei organizar com base nos tipos de linguagens que foram utilizadas durante meu período estudando lá.
+Aqui estão apenas **alguns programas e códigos** feitos durante os três anos do meu curso de Técnico em Informática pelo IFAL, sem grandes projetos. Tentei organizar com base nos tipos de linguagens que foram utilizadas durante meu período estudando lá.
 
 Junto deles, há alguns poucos códigos pessoais que fiz para aprender um pouco mais aparte dos pedidos pelos professores
 
