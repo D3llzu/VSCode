@@ -11,7 +11,9 @@ Junto deles, há alguns poucos códigos pessoais que fiz para aprender um pouco 
 ## Como Executar os Arquivos
 1. Clone este repositório para sua máquina
 
-    > `git clone https://github.com/CarlosGardelG/atividades_ifal.git`
+    ```
+    git clone https://github.com/CarlosGardelG/atividades_ifal.git
+    ```
 
 2. Abra a pasta criada na IDE de sua preferência
 
